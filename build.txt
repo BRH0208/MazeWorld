@@ -1,0 +1,3 @@
+displayName = Maze World
+author = Gerald Fitz
+version = 0.1
